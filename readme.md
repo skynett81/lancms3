@@ -1,4 +1,4 @@
-# LANCMS, the third.
+# LANCMS III
 
 Siden lancms2 har gått bort, starter vi på nytt.
 
