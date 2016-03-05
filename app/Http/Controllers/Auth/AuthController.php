@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Lancms\Http\Controllers\Auth;
 
-use App\User;
+use Lancms\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Lancms\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
